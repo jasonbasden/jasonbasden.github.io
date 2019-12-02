@@ -1,3 +1,12 @@
-﻿body
-{
+﻿
+
+.h1 {
+    text-align: center;
+    font-size: 300%;
+    text-decoration-color: white;
+}
+
+body {
+    background-color: blue;
+    text-decoration-color: white;
 }
